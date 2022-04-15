@@ -1,5 +1,5 @@
 # BASIC-RISC_SPM-CPU-
-tHIS IS VERILOG DESCRIPTION OG BASIC RISC SPM MEACHINE 
+Ihis is a code for cpu with risc architecture, and it is a stored program meachine.
 
 ### RTL VIEW OF RISC SPM CPU
 ![pic1](RISC_SPM.png)
